@@ -2,4 +2,4 @@
 
 # CAD Models for single node
 <img src="imgs/FusionSense_Rev4_exploded.PNG"> 
-<img src="imgs/FusionSense_Rev4_exploded.PNG">
+<img src="imgs/FusionSense_Rev4_collapsed.PNG">
